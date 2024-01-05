@@ -1,0 +1,7 @@
+{
+    "title": "صفحة العميل",
+    "counter_one": "واحد محدد",
+    "counter_other": "{{count}} المحدد",
+    "counter_zero": "لم يتم تحديد أي شيء",
+    "back-to-home": "العودة إلى المنزل"
+  }
